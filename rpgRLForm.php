@@ -13,7 +13,7 @@
       <fieldset>
         <h2>Strength</h2>
         <label name="benchpress">Benchpress: 
-          <input type="text" name="bpInput" id="bpField">kg
+          <input type="text" name="benchpressInput" id="bpField">kg
         </label><br>
         <label name="rowing">Rowing: 
           <input type="text" name="rowInput" id="rowField">kg
